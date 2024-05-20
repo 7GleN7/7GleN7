@@ -1,16 +1,17 @@
-### Hi there 👋
+### Boas Vindas ao meu PERFIL! 🌻
 
-<!--
-**7GleN7/7GleN7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Gleison Luiz, eu sou **Cristão** e muito bonito 😏
 
-Here are some ideas to get you started:
+- Estou estudando na Alura
+- Estou me **desenvolvendo** na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
+-  Ainda estou **Aprendendo**
+-  Se você estiver enfrentando turbulências em alguma área da sua vida, saiba que **Jesus Cristo é a Resposta pra Você**
+-  Ele já passou por tudo que você esta passando, ele ja foi **humilhado, rejeitado, agredido, ofendido, traído e abandonado**
+-  E Tudo isso por você, por mim, por **TODOS NÓS**
+-  O Cristianismo não é Religião, é um **Relacionamento** com o Filho Unigênito de **Deus**
+-  Religião não salva ninguem, **Jesus Cristo Salva**. Ele te quer, venha para ele e se torne **Mais que Vencedor(a)**
+-  Ele te ama muito!, você não tem ideia! Então deixe **Jesus Cristo** entrar na sua **Vida** hoje mesmo ❤️
+-  Não deixe para "Amanhã", pois o Amanhã pode ser tarde... **Jesus Está Voltando!!**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
